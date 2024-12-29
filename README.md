@@ -10,21 +10,45 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
 I’m a 21-year-old student at the **National Aviation Academy**, passionate about technology and innovation. Currently honing my skills as a **Full-Stack Developer** while exploring the exciting world of **AI and Machine Learning**.
 
 ---
 
-## Tech Stack & Tools
-- **Languages**: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-- **Frontend**: ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-- **Frameworks & Tools**: ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+## 💻 Tech Stack and Tools
+
+| **Programming Languages**          | **Frontend Development**        |
+|------------------------------------|---------------------------------|
+| ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) | ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) |
+| ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)     | ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)   |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) |
+| ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)       | -                                 |
+
+| **Tools and Frameworks**           |                                   |
+|------------------------------------|---------------------------------|
+| ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
+| ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) |
 
 ---
 
 ## 🌍 Languages & Goals
-- Fluent in: English, Russian, Azerbaijani, Turkish  
-- 🌟 Current Focus: Mastering **AI/ML** and building projects that blend it with Full-Stack Development.
+
+| **Languages**                      |                                   |
+|------------------------------------|---------------------------------|
+| ![English](https://img.shields.io/badge/-English-0078D7?logo=language&logoColor=white) | ![Russian](https://img.shields.io/badge/-Russian-0099CC?logo=language&logoColor=white) |
+| ![Azerbaijani](https://img.shields.io/badge/-Azerbaijani-FFDD00?logo=language&logoColor=black) | ![Turkish](https://img.shields.io/badge/-Turkish-A81D33?logo=language&logoColor=white) |
+
+---
+
+## 🎯 Current Goals
+- 🌟 Master **Artificial Intelligence** and **Machine Learning**.
+- 🔧 Build innovative projects that combine Full-Stack Development with AI/ML.
+
+---
+
+## 📚 Education
+🎓 **National Aviation Academy**  
+📖 Bachelor’s in Computer Engineering
 
 ---
 
