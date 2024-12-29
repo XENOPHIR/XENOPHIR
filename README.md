@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/1200x400?text=Murad+Babaev&bg_color=FFD700&text_color=000000&font=Comic+Sans+MS" alt="Banner" width="100%">
-</p>
-
 <h1 align="center">
   Hi there, I'm Murad Babaev! 👋
 </h1>
