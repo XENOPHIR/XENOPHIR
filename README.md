@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi there, I'm Murad Babaev! 👋
+  Hi there, I'm Murad Babaev a.k.a MEPHIST0S! 👋
 </h1>
 <p align="center">
   🎓 Computer Engineering Student<br>
