@@ -2,11 +2,12 @@
   <img src="https://user-images.githubusercontent.com/00000000/banner.png" alt="Banner" width="100%">
 </p>
 
-# Hi there, I'm Murad Babaev! 👋
-
-🎓 **Computer Engineering Student**  
-💻 **Full-Stack Developer**  
-🤖 **Aspiring AI/ML Specialist**
+<h1 align="center">Hi there, I'm Murad Babaev! 👋</h1>
+<p align="center">
+🎓 <strong>Computer Engineering Student</strong> <br>
+💻 <strong>Full-Stack Developer</strong> <br>
+🤖 <strong>Aspiring AI/ML Specialist</strong>
+</p>
 
 ---
 
@@ -16,25 +17,29 @@ I’m a 21-year-old student at the **National Aviation Academy**, passionate abo
 ---
 
 ## 💻 Tech Stack and Tools
-- ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
-- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-- ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)
-- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
-- ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
-- ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-- ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+<div align="center">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white" alt="Flask">
+  <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white" alt="Django">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" alt="Git">
+</div>
 
 ---
 
-## 🌍 Languages & Goals
-- ![English](https://img.shields.io/badge/-English-0078D7?logo=language&logoColor=white)
-- ![Russian](https://img.shields.io/badge/-Russian-0099CC?logo=language&logoColor=white)
-- ![Azerbaijani](https://img.shields.io/badge/-Azerbaijani-FFDD00?logo=language&logoColor=black)
-- ![Turkish](https://img.shields.io/badge/-Turkish-A81D33?logo=language&logoColor=white)
+## 🌍 Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/-English-0078D7?logo=language&logoColor=white" alt="English">
+  <img src="https://img.shields.io/badge/-Russian-0099CC?logo=language&logoColor=white" alt="Russian">
+  <img src="https://img.shields.io/badge/-Azerbaijani-FFDD00?logo=language&logoColor=black" alt="Azerbaijani">
+  <img src="https://img.shields.io/badge/-Turkish-A81D33?logo=language&logoColor=white" alt="Turkish">
+</div>
 
 ---
 
@@ -58,7 +63,7 @@ I’m a 21-year-old student at the **National Aviation Academy**, passionate abo
 ---
 
 ## 📫 Let's Connect!
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/mbabayev/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
