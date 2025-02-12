@@ -10,9 +10,9 @@
 
 ---
 
-<h2 align="center">
-  🚀 <span style="color:#36BCF7">About Me</span>
-</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/-🚀%20About%20Me-36BCF7?style=for-the-badge" />
+</p>
 
 🎓 **Bachelor’s in Computer Engineering**  
 💻 **Full Stack Development:** Flask & Django, SQL, REST APIs  
