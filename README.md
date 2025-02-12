@@ -46,17 +46,17 @@
 
 ---
 
-## 🗣️ **Languages & Communication**
-I’m fluent in multiple languages and open to collaboration in:  
-🌍 **Languages I Speak:**  
-🇬🇧 English – Professional working proficiency
-🇷🇺 Russian – Native  
-🇦🇿 Azerbaijani – Native  
-🇹🇷 Turkish – Limited working proficiency 
+## 🌍 **Languages & Communication**
+<p align="center">
+  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=google-translate" />
+  <img src="https://img.shields.io/badge/Russian-Native-red?style=for-the-badge&logo=google-translate" />
+  <img src="https://img.shields.io/badge/Azerbaijani-Native-green?style=for-the-badge&logo=google-translate" />
+  <img src="https://img.shields.io/badge/Turkish-Fluent-orange?style=for-the-badge&logo=google-translate" />
+</p>
 
-✍️ **Preferred Communication:**  
-💬 Discussions in English, Russian, Azerbaijani, or Turkish  
-📢 Open to international collaborations  
+🗣️ **Preferred Communication:**  
+📩 **Discussions:** English, Russian, Azerbaijani, Turkish  
+🤝 **Collaboration:** Open to working on international projects  
 
 ---
 
