@@ -10,9 +10,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🚀 About Me&fontAlign=50&fontSize=24&height=50&fontColor=36BCF7"/>
-</p>
+<h2 align="center">
+  🚀 <span style="color:#36BCF7">About Me</span>
+</h2>
 
 🎓 **Bachelor’s in Computer Engineering**  
 💻 **Full Stack Development:** Flask & Django, SQL, REST APIs  
