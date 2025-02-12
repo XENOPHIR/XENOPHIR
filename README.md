@@ -11,10 +11,15 @@
 ---
 
 <p align="center">
-  <div style="transform: scale(5); display: inline-block;">
+  <div style="transform: scale(25);">
     <img src="https://img.shields.io/badge/-🚀%20About%20Me-36BCF7?style=for-the-badge" />
   </div>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-🚀%20A B O U T  M E-36BCF7?style=for-the-badge" />
+</p>
+
 
 🎓 **Bachelor’s in Computer Engineering**  
 💻 **Full Stack Development:** Flask & Django, SQL, REST APIs  
