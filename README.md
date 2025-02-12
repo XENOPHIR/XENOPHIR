@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-🚀%20A B O U T  M E-36BCF7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-              🚀%20A B O U T  M E              -36BCF7?style=for-the-badge" />
 </p>
 
 
