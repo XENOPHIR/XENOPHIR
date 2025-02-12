@@ -56,12 +56,4 @@
   </a>
 </p>
 
-🚀 **Always open to AI-focused projects & collaborations!**  
-
 ---
-
-### 🔥 **Дополнительные идеи**:
-- Можно добавить **анимированное ASCII-искусство** (например, 🦾🤖)  
-- Если хочешь **интерактивные элементы**, можно вставить **GitHub Profile Trophy**:
-```md
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dracula)
