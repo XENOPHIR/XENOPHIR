@@ -1,5 +1,6 @@
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=👋+Hey+there,+I’m+Murad+Babaev!;A.k.a+XENOPHIR" />
+  <img src="https://img.shields.io/badge/-👋+Hey+there,+I’m+Murad+Babaev!;A.k.a+XENOPHIR-36BCF7?style=for-the-badge&logoColor=white" />
 </h1>
 
 <p align="center">
