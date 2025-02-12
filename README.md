@@ -15,10 +15,10 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-🚀%20About%20Me-36BCF7?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=36BCF7&center=true&vCenter=true&width=400&height=50&lines=🚀+About+Me" />
 </p>
 
-<div align="center">
+<div align="center" style="border: 2px solid #36BCF7; padding: 15px; border-radius: 10px; box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.3); width: 60%; margin: auto;">
 
 🎓 **Bachelor’s in Computer Engineering**  
 💻 **Full Stack Development:** Flask & Django, SQL, REST APIs  
