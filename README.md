@@ -46,6 +46,20 @@
 
 ---
 
+## 🗣️ **Languages & Communication**
+I’m fluent in multiple languages and open to collaboration in:  
+🌍 **Languages I Speak:**  
+🇬🇧 English – Professional working proficiency
+🇷🇺 Russian – Native  
+🇦🇿 Azerbaijani – Native  
+🇹🇷 Turkish – Limited working proficiency 
+
+✍️ **Preferred Communication:**  
+💬 Discussions in English, Russian, Azerbaijani, or Turkish  
+📢 Open to international collaborations  
+
+---
+
 ## 📡 **Let’s Connect!**
 <p align="center">
   <a href="https://www.linkedin.com/in/mbabayev/">
