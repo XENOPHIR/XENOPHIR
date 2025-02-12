@@ -1,9 +1,6 @@
-<h1 align="center"></h1>
-
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=36BCF7&center=true&vCenter=true&width=400&height=50&lines=👋 Hey there, I’m Murad Babaev a.k.a <span style="color:#ffcc00">XENOPHIR</span>!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=👋+Hey+there,+I’m+Murad+Babaev!;A.k.a+XENOPHIR" />
 </h1>
-
 
 <p align="center">
 🚀 Full Stack Python Developer | AI & ML Enthusiast | Problem Solver
