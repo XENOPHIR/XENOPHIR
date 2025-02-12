@@ -1,6 +1,7 @@
-
 <h1 align="center">
-  <img src="https://img.shields.io/badge/-👋+Hey+there,+I’m+Murad+Babaev!;A.k.a+XENOPHIR-36BCF7?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/-👋%20Hey%20there,%20I’m%20Murad%20Babaev!-36BCF7?style=for-the-badge&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/-A.k.a%20XENOPHIR-ffcc00?style=for-the-badge&logoColor=white" />
 </h1>
 
 <p align="center">
