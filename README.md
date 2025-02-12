@@ -49,9 +49,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=E74C3C&center=true&vCenter=true&width=400&height=50&lines=🎯+Current+Focus" />
 </p>
 
+<div align="center";">
+  
 📊 **AI & Machine Learning** – Data processing, model training, automation  
 📝 **Deep Learning & NLP** – Building intelligent systems  
 🌐 **AI-Driven Web Applications** – Integrating AI into full-stack solutions  
+
+</div>
 
 ---
 
@@ -77,9 +81,13 @@
   <img src="https://img.shields.io/badge/Turkish-Limited working proficiency-orange?style=for-the-badge&logo=google-translate" />
 </p>
 
+<div align="center";">
+  
 🗣️ **Preferred Communication:**  
 📩 **Discussions:** English, Russian, Azerbaijani, Turkish  
 🤝 **Collaboration:** Open to working on international projects  
+
+</div>
 
 ---
 
