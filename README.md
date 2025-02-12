@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&text=🚀 About Me&fontAlign=50&fontSize=24&height=50&fontColor=36BCF7"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=36BCF7&center=true&vCenter=true&width=400&height=50&lines=🚀+About+Me" />
 </p>
 
 🎓 **Bachelor’s in Computer Engineering**  
