@@ -48,10 +48,10 @@
 
 ## 🌍 **Languages & Communication**
 <p align="center">
-  <img src="https://img.shields.io/badge/English-Fluent-blue?style=for-the-badge&logo=google-translate" />
+  <img src="https://img.shields.io/badge/English-Professional working proficiency-blue?style=for-the-badge&logo=google-translate" />
   <img src="https://img.shields.io/badge/Russian-Native-red?style=for-the-badge&logo=google-translate" />
   <img src="https://img.shields.io/badge/Azerbaijani-Native-green?style=for-the-badge&logo=google-translate" />
-  <img src="https://img.shields.io/badge/Turkish-Fluent-orange?style=for-the-badge&logo=google-translate" />
+  <img src="https://img.shields.io/badge/Turkish-Limited working proficiency-orange?style=for-the-badge&logo=google-translate" />
 </p>
 
 🗣️ **Preferred Communication:**  
