@@ -1,36 +1,67 @@
-# 👋 Hey there, I’m Murad Babaev a.k.a XENOPHIR!
+<h1 align="center">👋 Hey there, I’m Murad Babaev a.k.a <span style="color:#ffcc00">XENOPHIR</span>!</h1>
 
-🚀 Full Stack Python Developer | AI & ML Enthusiast | Problem Solver  
+<p align="center">
+🚀 Full Stack Python Developer | AI & ML Enthusiast | Problem Solver
+</p>
 
-Currently pursuing my **Bachelor’s in Computer Engineering**, I have a strong foundation in **Flask & Django**, SQL databases, and RESTful APIs. While I have experience in full-stack development, my current focus is on **Artificial Intelligence & Machine Learning**, exploring data science, automation, and scalable AI solutions.  
-
----
-
-## 🛠️ Tech Stack  
-🔹 **Languages:** Python, SQL
-🔹 **Backend:** Flask, Django, REST APIs  
-🔹 **Frontend:** HTML, CSS, Bootstrap  
-🔹 **Databases:** MySQL, PostgreSQL, MSSQL  
-🔹 **Tools:** Docker, Git, VS Code  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&center=true&width=500&lines=Full+Stack+Python+Developer;AI+%26+ML+Enthusiast;Problem+Solver;Open+to+Collaboration!" />
+</p>
 
 ---
 
-## 🎯 Current Focus  
-🔹 **AI & Machine Learning** – Data processing, model training, automation  
-🔹 **Deep Learning & NLP** – Building intelligent systems  
-🔹 **AI-Driven Web Applications** – Merging AI with full-stack solutions  
+### 🧠 **About Me**
+🎓 **Bachelor’s in Computer Engineering**  
+💻 **Full Stack Development:** Flask & Django, SQL, REST APIs  
+🧠 **Currently Exploring:** AI & Machine Learning, Data Science, Automation  
+🌍 **Passionate about building scalable AI-driven solutions**  
 
 ---
 
-## 📈 GitHub Stats  
-![Murad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+## 🛠 **Tech Stack**
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-## 💡 Let’s Connect  
-💼 [LinkedIn](https://www.linkedin.com/in/mbabayev/)  
-📧 mb.official.444@gmail.com 
+## 🎯 **Current Focus**
+📊 **AI & Machine Learning** – Data processing, model training, automation  
+📝 **Deep Learning & NLP** – Building intelligent systems  
+🌐 **AI-Driven Web Applications** – Integrating AI into full-stack solutions  
+
+---
+
+## 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="40%"/>
+</p>
+
+---
+
+## 📡 **Let’s Connect!**
+<p align="center">
+  <a href="https://www.linkedin.com/in/mbabayev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mb.official.444@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 🚀 **Always open to AI-focused projects & collaborations!**  
 
+---
+
+### 🔥 **Дополнительные идеи**:
+- Можно добавить **анимированное ASCII-искусство** (например, 🦾🤖)  
+- Если хочешь **интерактивные элементы**, можно вставить **GitHub Profile Trophy**:
+```md
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=your-github-username&theme=dracula)
