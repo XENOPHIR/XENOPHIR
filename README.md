@@ -25,7 +25,10 @@
 
 ---
 
-## 🛠 **Tech Stack**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=F39C12&center=true&vCenter=true&width=400&height=50&lines=🛠+Tech+Stack" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
@@ -38,14 +41,20 @@
 
 ---
 
-## 🎯 **Current Focus**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=E74C3C&center=true&vCenter=true&width=400&height=50&lines=🎯+Current+Focus" />
+</p>
+
 📊 **AI & Machine Learning** – Data processing, model training, automation  
 📝 **Deep Learning & NLP** – Building intelligent systems  
 🌐 **AI-Driven Web Applications** – Integrating AI into full-stack solutions  
 
 ---
 
-## 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=9B59B6&center=true&vCenter=true&width=400&height=50&lines=📈+GitHub+Stats" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="40%"/>
@@ -53,7 +62,10 @@
 
 ---
 
-## 🌍 **Languages & Communication**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=27AE60&center=true&vCenter=true&width=500&height=50&lines=🌍+Languages+%26+Communication" />
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/English-Professional working proficiency-blue?style=for-the-badge&logo=google-translate" />
   <img src="https://img.shields.io/badge/Russian-Native-red?style=for-the-badge&logo=google-translate" />
@@ -67,12 +79,19 @@
 
 ---
 
-## 📡 **Let’s Connect!**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=2980B9&center=true&vCenter=true&width=400&height=50&lines=📡+Let’s+Connect!" />
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mbabayev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:mb.official.444@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
