@@ -11,7 +11,9 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-🚀%20About%20Me-36BCF7?style=for-the-badge" />
+  <div style="transform: scale(1.5); display: inline-block;">
+    <img src="https://img.shields.io/badge/-🚀%20About%20Me-36BCF7?style=for-the-badge" />
+  </div>
 </p>
 
 🎓 **Bachelor’s in Computer Engineering**  
