@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=36BCF7&center=true&vCenter=true&width=400&height=50&lines=🚀+About+Me" />
+  <img src="https://img.shields.io/badge/-🚀%20About%20Me-36BCF7?style=for-the-badge&logoColor=white" />
 </p>
 
 🎓 **Bachelor’s in Computer Engineering**  
