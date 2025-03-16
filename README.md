@@ -60,17 +60,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=9B59B6&center=true&vCenter=true&width=400&height=50&lines=📈+GitHub+Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight" width="40%"/>
-</p>
-
----
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=27AE60&center=true&vCenter=true&width=500&height=50&lines=🌍+Languages+%26+Communication" />
 </p>
 
