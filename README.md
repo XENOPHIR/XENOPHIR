@@ -46,20 +46,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=E74C3C&center=true&vCenter=true&width=400&height=50&lines=🎯+Current+Focus" />
-</p>
-
-<div align="center";">
-  
-📊 **AI & Machine Learning** – Data processing, model training, automation  
-📝 **Deep Learning & NLP** – Building intelligent systems  
-🌐 **AI-Driven Web Applications** – Integrating AI into full-stack solutions  
-
-</div>
-
----
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=27AE60&center=true&vCenter=true&width=500&height=50&lines=🌍+Languages+%26+Communication" />
 </p>
 
