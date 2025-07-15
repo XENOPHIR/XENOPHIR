@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-🚀 Full Stack Python Developer | AI & ML Enthusiast | Problem Solver
+🚀 Junior Software Engineer | AI & ML Enthusiast | Problem Solver
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 <div align="center";">
 
 🎓 **Bachelor’s in Computer Engineering**  
-💻 **Full Stack Development:** Flask & Django, SQL, REST APIs  
+💻 **Development:** Flask & Django, SQL, REST APIs  
 🧠 **Currently Exploring:** AI & Machine Learning, Data Science, Automation  
 🌍 **Passionate about building scalable AI-driven solutions**  
 
