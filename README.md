@@ -5,11 +5,11 @@
 </h1>
 
 <p align="center">
-🚀 Junior Software Engineer | AI & ML Enthusiast | Problem Solver
+📊 Junior Data Analyst | SQL & Python | Data Processing
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&center=true&width=500&lines=Junior+Software+Engineer;AI+%26+ML+Enthusiast;Problem+Solver;Open+to+Collaboration!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&center=true&width=500&lines=Junior+Data+Analyst;SQL+%26+Python+for+Data;Turning+Messy+Data+into+Answers;Open+to+Collaboration!" />
 </p>
 
 ---
@@ -18,12 +18,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=36BCF7&center=true&vCenter=true&width=400&height=50&lines=🚀+About+Me" />
 </p>
 
-<div align="center";">
+<div align="center">
 
-🎓 **Bachelor’s in Computer Engineering**  
-💻 **Development:** Flask & Django, SQL, REST APIs  
-🧠 **Currently Exploring:** AI & Machine Learning, Data Science, Automation  
-🌍 **Passionate about building scalable AI-driven solutions**  
+🎓 **B.Sc. Computer Engineering** — Honours, GPA 96.9/100
+📚 **M.Sc. Data Analytics** — in progress (2026–2028)
+🗄️ **Core Stack:** SQL (MySQL, MSSQL, PostgreSQL), Python for data extraction & processing
+🧠 **Currently Building:** pandas skills, dashboards, and an analytics portfolio
+🌍 **Interested in:** turning messy, unstructured data into clean, validated, usable records
 
 </div>
 
@@ -34,11 +35,13 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
@@ -56,11 +59,11 @@
   <img src="https://img.shields.io/badge/Turkish-Limited working proficiency-orange?style=for-the-badge&logo=google-translate" />
 </p>
 
-<div align="center";">
-  
-🗣️ **Preferred Communication:**  
-📩 **Discussions:** English, Russian, Azerbaijani, Turkish  
-🤝 **Collaboration:** Open to working on international projects  
+<div align="center">
+
+🗣️ **Preferred Communication:**
+📩 **Discussions:** English, Russian, Azerbaijani, Turkish
+🤝 **Collaboration:** Open to working on international projects
 
 </div>
 
