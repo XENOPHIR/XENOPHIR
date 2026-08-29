@@ -5,11 +5,11 @@
 </h1>
 
 <p align="center">
-📊 Junior Data Analyst | SQL & Python | Data Processing
+🐍 Junior Python Developer | Backend & Data | SQL • pandas
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&center=true&width=500&lines=Junior+Data+Analyst;SQL+%26+Python+for+Data;Turning+Messy+Data+into+Answers;Open+to+Collaboration!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7B93E&center=true&width=500&lines=Junior+Python+Developer;Backend+%26+Data;SQL+%26+pandas;Turning+Messy+Data+into+Answers;Open+to+Collaboration!" />
 </p>
 
 ---
@@ -22,8 +22,9 @@
 
 🎓 **B.Sc. Computer Engineering** — Honours, GPA 96.9/100
 📚 **M.Sc. Data Analytics** — in progress (2026–2028)
-🗄️ **Core Stack:** SQL (MySQL, MSSQL, PostgreSQL), Python for data extraction & processing
-🧠 **Currently Building:** pandas skills, dashboards, and an analytics portfolio
+🐍 **Core Stack:** Python for data extraction & processing, SQL (MySQL, MSSQL, PostgreSQL)
+🌐 **Backend:** REST APIs and services with Flask, Django, FastAPI
+🧠 **Currently Building:** pandas skills and a portfolio of data projects
 🌍 **Interested in:** turning messy, unstructured data into clean, validated, usable records
 
 </div>
@@ -35,13 +36,18 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/Dataiku-2AB1AC?style=for-the-badge&logo=dataiku&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
