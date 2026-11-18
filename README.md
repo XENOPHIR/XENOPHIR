@@ -21,7 +21,6 @@
 <div align="center">
 
 🎓 **B.Sc. Computer Engineering** — Honours, GPA 96.9/100
-📚 **M.Sc. Data Analytics** — in progress (2026–2028)
 🐍 **Core Stack:** Python for data extraction & processing, SQL (MySQL, MSSQL, PostgreSQL)
 🌐 **Backend:** REST APIs and services with Flask, Django, FastAPI
 🧠 **Currently Building:** pandas skills and a portfolio of data projects
